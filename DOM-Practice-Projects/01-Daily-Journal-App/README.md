@@ -56,14 +56,14 @@ A JavaScript DOM project that provides a simple digital journal for writing dail
 
 
 ## 📂 Project Structure
-
-Daily Journal App/
+```
+Daily Journal App
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-
+```
 
 ## ▶️ How to Run
 
